@@ -1,2 +1,2 @@
-#tarroka-bot
-An in progress discord bot I created to use for the Dungeons and Dragons: Curse of Strahd game I am running for some friends. Users will be able to do a reading using the in universe fortune telling cards, Tarroka. For now I am focusing on the just the names of cards, I eventually will add card meaning descriptions and pictures. 
+# tarroka-bot
+An in progress discord bot I created to use for the Dungeons and Dragons: Curse of Strahd game I am running for some friends. The game has a fortune telling card deck called tarroka, the goal of this bot is to enable users to do readings in the discord chat during games. For now I am focusing on adding the just the names of cards, I eventually will add card meaning descriptions and pictures. 
